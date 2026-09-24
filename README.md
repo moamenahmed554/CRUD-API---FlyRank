@@ -82,7 +82,8 @@ content-type: application/json
 
 ## Swagger UI
 
-![Swagger UI](screenshots/swagger.png)
+![Swagger UI](<img width="1400" height="1100" alt="swagger" src="https://github.com/user-attachments/assets/41f32e0e-9f64-4671-a7f5-7bea34e97df8" />
+)
 
 ## A note about the data
 
