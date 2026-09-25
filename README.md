@@ -82,8 +82,7 @@ content-type: application/json
 
 ## Swagger UI
 
-![Swagger UI](<img width="1400" height="1100" alt="swagger" src="https://github.com/user-attachments/assets/41f32e0e-9f64-4671-a7f5-7bea34e97df8" />
-)
+![Swagger UI]("C:\Users\mo240\OneDrive\Desktop\FlyRank Internship\CRUD API - WEEK 2\swagger.png")
 
 ## A note about the data
 
