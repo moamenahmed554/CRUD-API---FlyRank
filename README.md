@@ -82,7 +82,7 @@ content-type: application/json
 
 ## Swagger UI
 
-![Swagger UI]("C:\Users\mo240\OneDrive\Desktop\FlyRank Internship\CRUD API - WEEK 2\swagger.png")
+![Swagger UI](swagger.png)
 
 ## A note about the data
 
