@@ -93,7 +93,7 @@ databases exist. Week 3 replaces this list with real persistent storage.
 ## Project structure
 
 ```text
-todo-crud-api/
+CRUD-API---FlyRank/
 ├── main.py              # the whole API
 ├── requirements.txt     # pinned dependencies
 ├── README.md            # this file
