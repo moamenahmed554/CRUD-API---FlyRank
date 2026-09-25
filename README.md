@@ -27,7 +27,7 @@ FlyRank Backend Internship.
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/todo-crud-api.git
+git clone https://github.com/moamenahmed554/CRUD-API---FlyRank.git
 cd todo-crud-api
 pip install -r requirements.txt
 ```
