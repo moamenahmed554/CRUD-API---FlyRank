@@ -13,7 +13,6 @@ FlyRank Backend Internship.
 - **FastAPI** — the web framework
 - **Uvicorn** — the server that runs the app
 - **Swagger UI / OpenAPI** — auto-generated interactive docs (built into FastAPI)
-- **Git & GitHub** — version control and publishing
 
 ## Features
 
@@ -28,7 +27,7 @@ FlyRank Backend Internship.
 
 ```bash
 git clone https://github.com/moamenahmed554/CRUD-API---FlyRank.git
-cd todo-crud-api
+cd CRUD-API---FlyRank
 pip install -r requirements.txt
 ```
 
