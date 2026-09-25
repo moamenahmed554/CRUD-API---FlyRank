@@ -98,6 +98,5 @@ CRUD-API---FlyRank/
 ├── requirements.txt     # pinned dependencies
 ├── README.md            # this file
 ├── .gitignore
-└── screenshots/
-    └── swagger.png      # Swagger UI screenshot
+└── swagger.png      # Swagger UI screenshot
 ```
